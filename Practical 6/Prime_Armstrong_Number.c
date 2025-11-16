@@ -1,3 +1,5 @@
+//PARV PAHUJA - 25070521089
+
 //Write a C Programs for Simple Interest, Prime Number, and Armstrong Number using Simple or Built-in Functions 
 
 //Prime and Armstrong Number
